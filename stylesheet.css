@@ -1,0 +1,30 @@
+﻿body{
+	margin:70;
+  
+}
+a{
+	text-decoration:none;
+}
+a:hover{
+	color: maroon
+}
+.menu{
+top: 0;
+height: 40px;
+width: 100%;
+position: fixed;
+background:#FFFFFF;
+}
+
+ul{
+	list-style:none;
+	text-align:center;
+    padding: 2px;
+    border: 2px solid #000000;
+  width: 100%;
+}
+li {
+	display:inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
